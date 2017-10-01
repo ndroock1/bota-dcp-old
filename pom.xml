@@ -91,6 +91,13 @@
             <version>1.0.0</version>
         </dependency>
 
+        <!-- Conductor -->
+        <dependency>
+            <groupId>io.ddavison</groupId>
+            <artifactId>conductor</artifactId>
+            <version>3.0.1</version>
+        </dependency>
+
         <!-- Logging -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
