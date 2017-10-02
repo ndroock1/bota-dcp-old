@@ -1,4 +1,4 @@
-package org.nilostep.bota.dcp.commands;
+package org.nilostep.bota.dcp.shell;
 
 import org.nilostep.bota.dcp.betfair.BetfairFacade;
 import org.nilostep.bota.dcp.data.domain.Competition;
